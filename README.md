@@ -21,4 +21,4 @@ php artisan serve
 |                             |                             |
 | --------------------------- | --------------------------- |
 | ![Register Light](public/img/ss/light.png) | ![Login Dark](public/img/ss/dark.png) |
-| ![Dashboard Light](public/img/ss/dashboard-light.png) | ![Dashboard Dark](dashboard-dark.png) |
+| ![Dashboard Light](public/img/ss/dashboard-light.png) | ![Dashboard Dark](public/img/ss/dashboard-dark.png) |
